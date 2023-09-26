@@ -11,8 +11,7 @@
 		<dependency>
 			<groupId>io.cucumber</groupId>
 			<artifactId>cucumber-java</artifactId>
-			<version>7.2.0</version>
-
+			<version>7.9.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
 <dependency>
@@ -40,12 +39,12 @@
 			<artifactId>commons-collections4</artifactId>
 			<version>4.3</version>
 		</dependency>
-
-		<dependency>
+<dependency>
 			<groupId>CucumberJava</groupId>
 			<artifactId>CucumberJava</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -88,6 +87,5 @@
     <scope>test</scope>
 </dependency> 
  </dependencies>
-  
-<!-- https://mvnrepository.com/artifact/info.cukes/cucumber-junit -->
+
 </project>
